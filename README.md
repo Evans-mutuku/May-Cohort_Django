@@ -9,6 +9,8 @@ How to clone this repo
 https://github.com/Evans-mutuku/May-Cohort_Django.git
 ```
 
+Run the command below
+
 ```bash
 Happy coding!
 ```
