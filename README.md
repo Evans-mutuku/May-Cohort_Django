@@ -15,6 +15,5 @@ Run the command below
  pip install requirements.txt
 ```
 
-```
+
 Happy coding!
-```
