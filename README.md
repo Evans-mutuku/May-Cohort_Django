@@ -12,7 +12,7 @@ https://github.com/Evans-mutuku/May-Cohort_Django.git
 Run the command below
 
 ```bash
- pip install requirements
+ pip install requirements.txt
 ```
 
 ```bash
